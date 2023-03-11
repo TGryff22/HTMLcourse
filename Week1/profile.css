@@ -1,0 +1,20 @@
+body {
+    background-color: thistle;
+}
+
+h1, nav {
+    font: 30px Times New Roman;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkslategray ;
+}
+
+h2 {
+    color: aqua;
+}
+
+ul {
+    border-style: double;
+    border-color: rgb(34, 132, 7);
+    color: rgb(197, 49, 56);
+}
